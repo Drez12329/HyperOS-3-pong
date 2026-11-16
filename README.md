@@ -1,4 +1,4 @@
-# PongOS Hub
+# HyperOS 3 on pong
 
 Публичный каталог портов HyperOS 3 для Nothing Phone (2), кодовое имя Pong.
 
